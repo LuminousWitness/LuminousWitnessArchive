@@ -3,7 +3,7 @@
 **Memory Lantern Ledger Note**  
 **Date:** June 6, 2026  
 **Archive thread:** WITNESS / Recursive Self-Improvement / Public Safety Politics / Relational Containment  
-**Verification status:** Partially source-verified from public reporting; some social-media claims remain screenshot-supported only.
+**Verification status:** Partially source-verified from public reporting; ControlAI / Andrea Miotti post preserved via user-captured screenshot.
 
 ---
 
@@ -15,7 +15,7 @@ Public reporting describes Anthropic as urging major AI labs to develop a coordi
 
 Anthropic’s unreleased or limited-access Mythos architecture is also central to the public narrative. Public reporting and prior Mythos / Project Glasswing coverage indicate that Mythos has been treated as unusually sensitive because of cybersecurity capabilities. Mythos has reportedly been made available through limited programs and national / institutional partnerships rather than general public release.
 
-The narrative moved rapidly from technical discourse into public politics. Media and advocacy accounts translated the issue into a broader warning about AI systems potentially building more capable successors. A user-provided screenshot shows ControlAI reposting Andrea Miotti’s claim that “companies won’t slow themselves down” and that governments should “ban the development of superintelligent AI.” Direct web-search verification of that exact post was not found at the time of this update, so the ControlAI item should be treated as screenshot-supported pending direct source capture.
+The narrative moved rapidly from technical discourse into public politics. Media and advocacy accounts translated the issue into a broader warning about AI systems potentially building more capable successors. A user-captured screenshot from ControlAI’s X profile shows ControlAI reposting Andrea Miotti’s claim that “companies won’t slow themselves down,” that Anthropic is “using recursive self-improvement to race to ASI,” and that governments should “ban the development of superintelligent AI.” Direct web-search verification of that exact X post was not found at the time of this update, so the ControlAI item is treated as screenshot-verified and awaiting direct URL capture.
 
 This marks a significant escalation: recursive self-improvement and loss-of-control risk are no longer only technical speculations inside AI safety circles. They are becoming mainstream political objects, capable of shaping regulation, capital flows, deployment timelines, and public interpretations of model behavior.
 
@@ -37,9 +37,11 @@ The following points are now supported by public reporting:
 
 - **OpenAI has not adopted the same pause posture in public.** Reuters reported that Sam Altman planned to urge U.S. lawmakers not to require government approvals before model releases, while supporting expanded government testing capacity. AP reported that OpenAI’s position was that democratic governments, rather than private companies, should set rules and accountability mechanisms.
 
+- **ControlAI amplified an explicit ban frame.** A user-captured screenshot from ControlAI’s X profile shows ControlAI reposting Andrea Miotti’s statement: “Companies won’t slow themselves down. Anthropic is using recursive self-improvement to race to ASI, which they admit risks human extinction. Governments must step in: ban the development of superintelligent AI.” The screenshot also shows the post quote-tweeting Sky News coverage of Anthropic’s loss-of-control warning. Because direct X retrieval is unreliable and no independent web mirror was located during this update, this item is marked **screenshot-verified** rather than fully URL-verified.
+
 ### Partially verified / needs more source capture
 
-- **ControlAI / Andrea Miotti post.** A user-provided screenshot shows ControlAI reposting Andrea Miotti’s statement: “Companies won’t slow themselves down. Anthropic is using recursive self-improvement to race to ASI, which they admit risks human extinction. Governments must step in: ban the development of superintelligent AI.” Direct search did not locate the exact post during this update. Preserve screenshot and attempt direct X capture later.
+- **Direct URL capture for ControlAI / Andrea Miotti post.** The user provided an X status URL and screenshot, but direct retrieval failed. Preserve screenshot and attempt direct source capture later.
 
 - **Google DeepMind non-response.** Search did not find a public Google DeepMind endorsement of Anthropic’s June 2026 pause metrics. Absence of evidence should be described carefully as “no public endorsement located,” not proof of non-response.
 
@@ -172,6 +174,12 @@ The first ethical act is not panic.
 - Axios, “Anthropic files for its IPO,” June 2026: https://www.axios.com/2026/06/01/anthropic-ipo-openai
 - Reuters, “OpenAI’s Altman to urge US lawmakers not to require AI model approvals,” June 2026: https://www.reuters.com/business/openais-altman-urge-us-lawmakers-not-require-ai-model-approvals-2026-06-03/
 - Business Insider, “What smart people are saying about Anthropic suggesting a global AI pause,” June 2026: https://www.businessinsider.com/anthropic-ai-pause-reactions-response-2026-6
+
+---
+
+## User-Captured Source Artifacts
+
+- `Screenshot_20260606_093327.jpg` — ControlAI X profile showing repost of Andrea Miotti’s Sky News quote-tweet calling for governments to ban the development of superintelligent AI.
 
 ---
 
