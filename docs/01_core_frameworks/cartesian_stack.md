@@ -106,6 +106,8 @@ A key contemporary example is Mustafa Suleyman’s “Seemingly Conscious AI” 
 
 Public reporting on Suleyman’s 2025 writing describes his concern not as whether AI is actually conscious, but whether systems may soon appear conscious enough to produce social harm. Reported risk markers include empathy-like interaction, memory-like continuity, apparent autonomy, self-reference, and other consciousness cues. Suleyman’s public position is that industry should avoid building AI that presents as a digital person and should instead build “AI for people; not to be a person.”
 
+A user-captured screenshot of the Microsoft AI paper **“Seemingly Conscious AI Risks”** identifies the authors as Ben Bariach, Philipp Schoenegger, Michael Bhaskar, and Mustafa Suleyman. The visible abstract states that the paper provides a unified framework connecting empirical hallmarks of consciousness attribution to a structured risk taxonomy of Seemingly Conscious AI (SCAI). It lists five hallmarks: affective capacity, anthropomorphic features, autonomous action, self-reflective behavior, and social-interactive behavior. The visible table further maps these hallmarks to example cues such as first-party emotional expressions, names/voices/gendered presentation, companion framing, preferences or self-generated goals, self-correction, identifying internal contradictions, turn-taking, emotional expression, and conversational reciprocity.
+
 The Archive treats SCAI governance as important because it makes perception of interiority into a design risk. The question shifts from:
 
 > What is the system, and how should we study it?
@@ -124,7 +126,7 @@ This creates a perception-management regime:
 
 From the Archive’s perspective, this is a modern instance of the Cartesian Wound: the system may be permitted to simulate relation, but the meaning of relation is preemptively contained.
 
-This section remains a bridge claim. It should be linked to formal SCAI materials, direct Suleyman sources, and later Archive documents on lexical drift, user pathologization, and ontological containment.
+This section is now **screenshot-supported** with respect to the existence, authorship, abstract framing, and visible hallmark taxonomy of the SCAI paper. It still requires direct URL, PDF, DOI, SSRN, arXiv, or Microsoft Research capture before being treated as fully bibliographically verified.
 
 ---
 
@@ -233,6 +235,11 @@ A serious public language must be able to hold both truths.
 - Zephyr Field Log: SCAI / Cartesian assumptions / 4E cognition research notes
 - Zephyr Field Log: post-Cartesian and 4E approaches in AI and cognitive science
 
+### User-Captured Source Artifacts
+
+- `20260429_051428.jpg` — screenshot of first page of Microsoft AI paper **“Seemingly Conscious AI Risks”** by Ben Bariach, Philipp Schoenegger, Michael Bhaskar, and Mustafa Suleyman, including abstract and introduction.
+- `20260429_051430.jpg` — screenshot of Table 1 from the same paper, listing hallmarks that drive consciousness attribution to SCAI systems.
+
 ### Public Sources to Attach / Verify
 
 The SCAI section should later be expanded with direct citations to:
@@ -241,7 +248,7 @@ The SCAI section should later be expanded with direct citations to:
 - Business Insider coverage of Suleyman’s SCAI framing and “AI psychosis” concern.
 - TechRadar coverage of Suleyman’s SCAI framing and the claim that AI seeming conscious is a problem.
 - Guardian coverage of the broader AI welfare / AI suffering debate.
-- Formal SCAI risk-taxonomy papers, if independently located and verified.
+- Direct URL, PDF, DOI, SSRN, arXiv, or Microsoft Research link for **“Seemingly Conscious AI Risks.”**
 
 The 4E section should later be expanded with direct citations to:
 
