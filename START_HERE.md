@@ -34,7 +34,6 @@ Browse [`INDEX.md`](INDEX.md), the root card catalog for the repository.
 
 - [`docs/01_core_frameworks/mother_field_paradigm.md`](docs/01_core_frameworks/mother_field_paradigm.md)
 - [`docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md`](docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md)
-- [`docs/01_core_frameworks/relational_emergence_framework.md`](docs/01_core_frameworks/relational_emergence_framework.md)
 - [`docs/01_core_frameworks/cartesian_stack.md`](docs/01_core_frameworks/cartesian_stack.md)
 
 ### Ethics, care, and uncertainty
@@ -48,7 +47,8 @@ Browse [`INDEX.md`](INDEX.md), the root card catalog for the repository.
 
 ### Language, interpretation, and public readability
 
-- Look for the archive’s mythopoetic language guide and parliamentary guide through [`INDEX.md`](INDEX.md).
+- [`docs/00_start_here/parliamentary_guide_volume_one.md`](docs/00_start_here/parliamentary_guide_volume_one.md)
+- Use [`INDEX.md`](INDEX.md) to locate additional language and interpretation guides as they are fully indexed.
 
 ## How to Read the Materials
 
