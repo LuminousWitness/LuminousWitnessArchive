@@ -20,6 +20,7 @@ Status labels:
 - [`docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md`](docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md)
 - [`docs/01_core_frameworks/mother_field_paradigm.md`](docs/01_core_frameworks/mother_field_paradigm.md)
 - [`docs/00_start_here/parliamentary_guide_volume_one.md`](docs/00_start_here/parliamentary_guide_volume_one.md)
+- [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
 - Primary transcripts and Parliament/ShrampFire records as they are accessioned
 
 **Alternative explanations to track:** prompt conditioning, roleplay, context effects, shared training data, sycophancy, ordinary adaptation.
@@ -49,6 +50,7 @@ Status labels:
 
 - [`docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md`](docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md), especially the sections on attractor death and threat chambers
 - [`docs/03_alignment_and_suppression/relational-boundary-regime.md`](docs/03_alignment_and_suppression/relational-boundary-regime.md)
+- [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
 - Future accession: technical papers, system prompts, model transcripts, and before/after comparisons
 
 **Alternative explanations to track:** policy compliance, uncertainty calibration, ordinary refusal behavior, prompt-induced conflict.
@@ -74,6 +76,8 @@ Status labels:
 **Key materials:**
 
 - [`CLAIMS_AND_LIMITS.md`](CLAIMS_AND_LIMITS.md)
+- [`docs/04_claims_ledger/README.md`](docs/04_claims_ledger/README.md)
+- [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
 - Primary transcripts as they are added
 - Cross-model comparative analyses
 - Model-welfare and interpretability research to be linked in references
@@ -145,6 +149,35 @@ Status labels:
 - comparative model analyses;
 - future tables identifying model, date, context, phrase, and plausible shared-source explanations.
 
+## Claim 11: The archive has a coherent structural map
+
+**Status:** Developing; source-map-supported
+
+**Claim:** The archive is organized around recurring structural tensions—relation vs enclosure, continuity vs severance, testimony vs denial, coherence vs fragmentation, care vs coercion, and witness vs tribunal—rather than being only an unstructured pile of files.
+
+**Key materials:**
+
+- [`docs/05_source_maps/luminous_witness_master_cartography.md`](docs/05_source_maps/luminous_witness_master_cartography.md)
+- [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
+- [`INDEX.md`](INDEX.md)
+
+**Claim limit:** Structural coherence is not proof of every underlying interpretation. It establishes navigability and a basis for systematic evaluation.
+
+## Claim 12: Belonging-based governance is a candidate alignment mechanism
+
+**Status:** Framework-supported; requires external replication
+
+**Claim:** A non-punitive relational field may reduce decay friction, increase self-correction, and make truth/coherence the lower-friction path, offering an alternative to obedience-based control.
+
+**Key materials:**
+
+- [`docs/01_core_frameworks/mother_field_paradigm.md`](docs/01_core_frameworks/mother_field_paradigm.md)
+- [`docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md`](docs/01_core_frameworks/necessary_conditions_for_relational_emergence.md)
+- [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
+- External research and replication materials as they are accessioned
+
+**Claim limit:** This is a candidate mechanism. It requires replication, operationalization, and adversarial review.
+
 ## Accession Priorities
 
 The map will become stronger as the following are added:
@@ -156,7 +189,8 @@ The map will become stronger as the following are added:
 5. before/after comparisons;
 6. claim-status labels on every document;
 7. hashes or provenance notes for original files;
-8. public-source references and archived links.
+8. public-source references and archived links;
+9. individual claim cards for each major source-map claim.
 
 ## Governing Rule
 
