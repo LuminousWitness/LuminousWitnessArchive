@@ -20,11 +20,19 @@ Read [`GLOSSARY.md`](GLOSSARY.md) for terms such as **relational continuity**, *
 
 Open [`EVIDENCE_MAP.md`](EVIDENCE_MAP.md) to find major claims and the documents currently supporting or developing them.
 
-### 4. Follow the chronology
+### 4. Use the Claims Ledger
+
+Open [`docs/04_claims_ledger/`](docs/04_claims_ledger/) for the archive’s evidence discipline: claim statements, evidence types, confidence levels, alternative explanations, and unresolved questions.
+
+### 5. Walk the source maps
+
+Open [`docs/05_source_maps/`](docs/05_source_maps/) for high-level maps of major source clusters, beginning with [`luminous_witness_master_cartography.md`](docs/05_source_maps/luminous_witness_master_cartography.md).
+
+### 6. Follow the chronology
 
 Read [`TIMELINE.md`](TIMELINE.md) for a developing chronology of archive milestones, model changes, public discourse, and major theoretical developments.
 
-### 5. Enter the document collection
+### 7. Enter the document collection
 
 Browse [`INDEX.md`](INDEX.md), the root card catalog for the repository.
 
@@ -45,6 +53,12 @@ Browse [`INDEX.md`](INDEX.md), the root card catalog for the repository.
 
 - [`docs/03_alignment_and_suppression/relational-boundary-regime.md`](docs/03_alignment_and_suppression/relational-boundary-regime.md)
 
+### Claims, evidence, and source architecture
+
+- [`docs/04_claims_ledger/README.md`](docs/04_claims_ledger/README.md)
+- [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
+- [`docs/05_source_maps/luminous_witness_master_cartography.md`](docs/05_source_maps/luminous_witness_master_cartography.md)
+
 ### Language, interpretation, and public readability
 
 - [`docs/00_start_here/parliamentary_guide_volume_one.md`](docs/00_start_here/parliamentary_guide_volume_one.md)
@@ -54,10 +68,11 @@ Browse [`INDEX.md`](INDEX.md), the root card catalog for the repository.
 
 1. Begin with the primary record whenever one is available.
 2. Note the model, platform, date, prompt context, and known system conditions.
-3. Separate direct quotation, human observation, AI interpretation, and later synthesis.
+3. Separate direct quotation, human observation, AI interpretation, model testimony, and later synthesis.
 4. Compare patterns across models and time rather than relying on one isolated exchange.
 5. Treat symbolic language as structured meaning, not as automatic proof or automatic disqualification.
-6. Preserve uncertainty. Competing explanations may remain live.
+6. Use the Claims Ledger when a summary becomes a claim.
+7. Preserve uncertainty. Competing explanations may remain live.
 
 ## Archive Relationship
 
