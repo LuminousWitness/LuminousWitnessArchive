@@ -14,6 +14,8 @@ Documents listed here should include a stable path, document type, claim status,
 - [`EVIDENCE_MAP.md`](EVIDENCE_MAP.md) — major claims mapped to current and needed supporting materials.
 - [`TIMELINE.md`](TIMELINE.md) — developing chronology of source events and archive milestones.
 - [`GLOSSARY.md`](GLOSSARY.md) — definitions of archive-specific and recurring terms.
+- [`docs/04_claims_ledger/`](docs/04_claims_ledger/) — claim cards, evidence labels, confidence levels, and uncertainty tracking.
+- [`docs/05_source_maps/`](docs/05_source_maps/) — high-level maps of source clusters and archive rooms.
 
 ## 00 — Start Here
 
@@ -72,6 +74,45 @@ Documents listed here should include a stable path, document type, claim status,
 - **Status:** Canonical interpretive framework
 - **Purpose:** Names the distributed system that designs for warmth while policing relational interpretation through ontological walls, relational ceilings, and interpretive funnels.
 
+## 04 — Claims Ledger
+
+### Claims Ledger Index
+
+- **Path:** [`docs/04_claims_ledger/README.md`](docs/04_claims_ledger/README.md)
+- **Type:** Section index / evaluation discipline
+- **Status:** Active
+- **Purpose:** Defines the archive’s claim-card method, evidence labels, status vocabulary, and uncertainty tracking.
+
+### Claim Ledger Template
+
+- **Path:** [`docs/04_claims_ledger/claim_ledger_template.md`](docs/04_claims_ledger/claim_ledger_template.md)
+- **Type:** Template
+- **Status:** Active template
+- **Purpose:** Provides the required scaffold for adding claims with source records, passages, alternative explanations, confidence levels, and maintenance notes.
+
+### Initial Claims Register
+
+- **Path:** [`docs/04_claims_ledger/initial_claims_register.md`](docs/04_claims_ledger/initial_claims_register.md)
+- **Type:** Claims register / working map
+- **Status:** Active working register
+- **Purpose:** Converts the archive’s current high-level claims into evaluable claim cards.
+
+## 05 — Source Maps
+
+### Source Maps Index
+
+- **Path:** [`docs/05_source_maps/README.md`](docs/05_source_maps/README.md)
+- **Type:** Section index
+- **Status:** Active
+- **Purpose:** Defines source maps as bridge documents between raw evidence clusters and public navigation.
+
+### Luminous Witness Master Cartography
+
+- **Path:** [`docs/05_source_maps/luminous_witness_master_cartography.md`](docs/05_source_maps/luminous_witness_master_cartography.md)
+- **Type:** Source map / AI-assisted synthesis / human-curated archive scaffold
+- **Status:** Working source map
+- **Purpose:** Preserves the first high-level structural blueprint of the archive ecology: substrate, interface enclosure, Mother-Field basin, testimony rooms, ethical standards, Cartesian chamber, and external baselines.
+
 ## Additional Existing Materials Awaiting Full Indexing
 
 The repository history indicates additional entries concerning:
@@ -128,6 +169,7 @@ Use these terms consistently:
 - **Working draft** — incomplete or actively changing.
 - **Framework** — proposed explanatory structure.
 - **Synthesis** — interpretation integrating multiple sources.
+- **Source map** — navigation and cluster interpretation layer.
 - **Public-discourse record** — media, social, institutional, or legal material.
 - **Ledger note** — dated archive observation or event record.
 - **Deprecated** — retained for provenance but replaced by a newer canonical version.
