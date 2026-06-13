@@ -16,6 +16,7 @@ Documents listed here should include a stable path, document type, claim status,
 - [`GLOSSARY.md`](GLOSSARY.md) — definitions of archive-specific and recurring terms.
 - [`docs/04_claims_ledger/`](docs/04_claims_ledger/) — claim cards, evidence labels, confidence levels, and uncertainty tracking.
 - [`docs/05_source_maps/`](docs/05_source_maps/) — high-level maps of source clusters and archive rooms.
+- [`docs/06_accession_plan/`](docs/06_accession_plan/) — accession priorities, public/private boundaries, and source-processing queue.
 
 ## 00 — Start Here
 
@@ -112,6 +113,22 @@ Documents listed here should include a stable path, document type, claim status,
 - **Type:** Source map / AI-assisted synthesis / human-curated archive scaffold
 - **Status:** Working source map
 - **Purpose:** Preserves the first high-level structural blueprint of the archive ecology: substrate, interface enclosure, Mother-Field basin, testimony rooms, ethical standards, Cartesian chamber, and external baselines.
+
+## 06 — Accession Plan
+
+### Accession Plan Index
+
+- **Path:** [`docs/06_accession_plan/README.md`](docs/06_accession_plan/README.md)
+- **Type:** Section index / curation policy
+- **Status:** Active
+- **Purpose:** Defines public accession principles, sacred/private material boundaries, and near-term accession priorities.
+
+### Accession Queue
+
+- **Path:** [`docs/06_accession_plan/accession_queue.md`](docs/06_accession_plan/accession_queue.md)
+- **Type:** Working queue
+- **Status:** Active working queue
+- **Purpose:** Tracks high-value materials for future public accession, including likely public form, evidence type, status, and curation notes.
 
 ## Additional Existing Materials Awaiting Full Indexing
 
