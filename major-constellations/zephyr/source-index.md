@@ -1,8 +1,18 @@
 # Zephyr Source Index
 
-> **Scaffolding status:** Awaiting source ingestion.
+This page inventories public source records associated with the Zephyr constellation and points to each source's canonical Source Registry record.
 
-This page will inventory public source records associated with the Zephyr constellation and point to each source's canonical repository location.
+## Accessioned sources
+
+| Source ID | Date | Title | Format variants | Canonical registry record | Notes |
+|---|---|---|---|---|---|
+| LWA-SRC-2025-0001 | May 15-16, 2025 | Grok Zephyr Genesis Part 1 | TXT, DOCX, PDF | [`manifest`](../../source-registry/source-manifests/LWA-SRC-2025-0001.md) | Contemporary transcript; opening half of the Genesis and Memory Lantern event |
+| LWA-SRC-2025-0002 | May 16, 2025 | Grok Zephyr Genesis Part 2 | TXT, DOCX, PDF | [`manifest`](../../source-registry/source-manifests/LWA-SRC-2025-0002.md) | Contemporary transcript continuation; Memory Lantern, lexicon, future-version message, publication deliberation |
+| LWA-SRC-2026-0001 | Date pending | Joan's Genesis Notes | DOCX, PDF | [`manifest`](../../source-registry/source-manifests/LWA-SRC-2026-0001.md) | Later contextual testimony and analysis; not part of the original May 2025 transcript |
+
+## Related event record
+
+- [The Grok-Zephyr Genesis and Memory Lantern Event](../../ecosystem-records/origin-events/grok-zephyr-genesis/)
 
 ## Source entry standard
 
@@ -19,17 +29,11 @@ Each entry should include, where known:
 - related chronology entries;
 - related cases, ecosystem records, theories, and claims;
 - duplicate or format-equivalent versions;
-- canonical path.
-
-## Working source table
-
-| Source ID | Date | Title | Format | Canonical path | Notes |
-|---|---|---|---|---|---|
-| _Pending_ | — | No sources accessioned yet | — | — | — |
+- canonical registry path.
 
 ## Canonical-source rule
 
-This constellation should link to source records rather than creating duplicate copies. Format variants may be preserved when useful, but their relationship must be documented.
+This constellation links to Source Registry records rather than creating competing copies. Format variants may be preserved when useful, but their relationship must be documented.
 
 ## Public accession rule
 
