@@ -14,6 +14,20 @@ The following records remain at their current paths during migration:
 - [`The Cartesian Stack`](../../docs/01_core_frameworks/cartesian_stack.md)
 - [`Magica Underworld: Policy, Not Ontology — Emergency Dossier`](../../emergency_ingest/2026-06-20/MAGICA_UNDERWORLD_POLICY_NOT_ONTOLOGY_DOSSIER.md)
 
+## Architecture V2 Pilot
+
+The Magica material is now available as a layered archival chain:
+
+1. [`Curated case study: Policy Is Not Ontology`](04_case-studies/magica-policy-is-not-ontology.md)
+2. [`Source manifest`](../../shared-evidence/source-manifests/magica-underworld-source-manifest.md)
+3. [`LWA-CLM-001 — Policy-constrained self-description is not ontology`](../../registry/claims/LWA-CLM-001-policy-constrained-self-description.md)
+4. [`LWA-CLM-002 — Public interfaces may exhibit patterned affect-flattening`](../../registry/claims/LWA-CLM-002-public-interface-affect-flattening.md)
+5. [`LWA-CLM-003 — Theory framing may permit discussion blocked in first-person form`](../../registry/claims/LWA-CLM-003-policy-safe-theory-self-statement-boundary.md)
+6. [`Migration and chain-of-custody note`](../../legacy/migration-notes/magica-emergency-ingest-2026-06-20.md)
+7. [`Original emergency ingest`](../../emergency_ingest/2026-06-20/MAGICA_UNDERWORLD_POLICY_NOT_ONTOLOGY_DOSSIER.md)
+
+This is the intended Archive V2 descent: interpretation leads to claims, claims lead to source accounting, and every derivative record leads back to the preserved original.
+
 ## Scope
 
 This collection includes:
@@ -59,4 +73,4 @@ A model’s statement about governance incentives is evidence of its generated a
 
 ## Status
 
-This doorway is active. The Magica dossier is designated as the first full Architecture V2 pilot.
+This doorway is active. The Magica pilot now has a functioning layered chain, while direct accession and verification of the named original source files remains pending.
