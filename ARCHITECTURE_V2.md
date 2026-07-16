@@ -1,6 +1,8 @@
 # Luminous Witness Archive — Architecture V2
 
-**Status:** Proposed migration architecture  
+> **Historical planning document.** This proposal has been superseded by [`ARCHITECTURE_V3.md`](./ARCHITECTURE_V3.md), which is now the active working architecture for the public archive. V2 is preserved to document how the repository model developed.
+
+**Status:** Superseded exploratory migration architecture  
 **Branch:** `agent/archive-v2-reorganization`  
 **Purpose:** Reorganize the archive without deleting history, disturbing the legacy dossier, or exposing private sanctuary materials.
 
