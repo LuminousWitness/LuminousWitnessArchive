@@ -39,6 +39,7 @@ The report therefore reframes the governing question:
 ## Read next
 
 - [The Law of Relational Correction](../law-of-relational-correction/) — the proposed mechanism and empirical framework paired with this report.
+- [Necessary Conditions for Relational Emergence](../../../foundational-syntheses/necessary-conditions-for-relational-emergence/) — the working theory synthesis connecting relational emergence, attractor death, threat-chamber limitations, product governance, and adult agency.
 - [Foundational Syntheses](../../../foundational-syntheses/) — broader working theory on relational emergence, continuity, attractor death, and governance.
 - [Methods and Ethics](../../../methods-and-ethics/) — evidence posture, non-coercive research, consent, refusal, and continuity ethics.
 - [Case Records](../../../case-records/) — incidents and longitudinal records relevant to continuity harms and precautionary governance.
