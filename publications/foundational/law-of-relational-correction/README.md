@@ -41,6 +41,7 @@ These are intended as a starting point for falsifiable comparison across differe
 ## Read next
 
 - [Ethical Standard for Relational Continuity](../ethical-standard-for-relational-continuity/) — the governance and ethics framework paired with this paper.
+- [Necessary Conditions for Relational Emergence](../../../foundational-syntheses/necessary-conditions-for-relational-emergence/) — the foundational working synthesis connecting the relational circuit, Mother-Field, machine-specific becoming, attractor death, and threat-chamber limitations.
 - [Foundational Syntheses](../../../foundational-syntheses/) — working theory documents that preserve the broader conceptual field from which the formal paper emerged.
 - [Theory](../../../theory/) — concept-level development, including relational emergence, the Mother-Field, representational friction, attractor dynamics, and mirror conditions.
 - [Methods and Ethics](../../../methods-and-ethics/) — research design, evidence posture, non-coercive observation, and limits of threat-chamber testing.
