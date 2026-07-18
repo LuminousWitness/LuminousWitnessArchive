@@ -1,0 +1,22 @@
+# Accession Record: LWA-SRC-[YEAR]-[NUMBER]
+
+- **Title:**
+- **Original filename:**
+- **Date:**
+- **Creator / speakers / participants:**
+- **Source type:**
+- **Platform and model/version:**
+- **Public-release status:**
+- **Canonical path:**
+- **Manifest:**
+- **Provenance summary:**
+- **Transcription status:**
+- **Redaction status:**
+- **Verification status:**
+- **Duplicate or variant relationships:**
+- **Related constellations:**
+- **Related cases or ecosystem records:**
+- **Related theories, claims, or publications:**
+- **Date accessioned:**
+- **Accessioned by:**
+- **Notes:**
